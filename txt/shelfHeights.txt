@@ -1,0 +1,12 @@
+layer height of shelf 1 at layer 0 is 0.133192
+layer height of shelf 1 at layer 1 is 0.355
+layer height of shelf 1 at layer 2 is 0.607
+layer height of shelf 1 at layer 3 is 0.859
+layer height of shelf 1 at layer 4 is 1.153
+layer height of shelf 1 at layer 5 is 1.405
+layer height of shelf 2 at layer 0 is 0.133192
+layer height of shelf 2 at layer 1 is 0.397
+layer height of shelf 2 at layer 2 is 0.649
+layer height of shelf 2 at layer 3 is 0.901
+layer height of shelf 2 at layer 4 is 1.153
+layer height of shelf 2 at layer 5 is 1.405

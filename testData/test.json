@@ -1,0 +1,324 @@
+{
+    "products": [
+        {
+            "id": "000000000100002324",
+            "gtin": "4010355055774",
+            "description": "NONE",
+            "length": "45",
+            "depth": "205",
+            "height": "95",
+            "weight": "51",
+            "name": "Denkmit Backofen Grillreiniger 500ml"
+        },
+        {
+            "id": "000000000100002325",
+            "gtin": "4010355101082",
+            "description": "NONE",
+            "length": "45",
+            "depth": "205",
+            "height": "95",
+            "weight": "51",
+            "name": "#N/A"
+        },
+        {
+            "id": "000000000100002329",
+            "gtin": "4002448085492",
+            "description": "NONE",
+            "length": "40",
+            "depth": "190",
+            "height": "190",
+            "weight": "390",
+            "name": "Finish Quantum Lemon 22St"
+        },
+        {
+            "id": "000000000100002330",
+            "gtin": "40161938",
+            "description": "NONE",
+            "length": "32",
+            "depth": "80",
+            "height": "130",
+            "weight": "53",
+            "name": "Putzboy Glaskeramik-Schaber OR + 2NF 1St"
+        },
+        {
+            "id": "000000000100002331",
+            "gtin": "4010355100078",
+            "description": "NONE",
+            "length": "45",
+            "depth": "205",
+            "height": "95",
+            "weight": "51",
+            "name": "#N/A"
+        },
+        {
+            "id": "000000000100002332",
+            "gtin": "4002448102854",
+            "description": "NONE",
+            "length": "38",
+            "depth": "51",
+            "height": "139",
+            "weight": "124",
+            "name": "Finish Classic Smartpack 40St"
+        },
+        {
+            "id": "000000000100002333",
+            "gtin": "4002448103455",
+            "description": "NONE",
+            "length": "38",
+            "depth": "51",
+            "height": "139",
+            "weight": "124",
+            "name": "#N/A"
+        },
+        {
+            "id": "000000000100002334",
+            "gtin": "4002448083375",
+            "description": "NONE",
+            "length": "67",
+            "depth": "138",
+            "height": "162",
+            "weight": "1511",
+            "name": "Finish Power Powder 1,5kg"
+        },
+        {
+            "id": "000000000100002335",
+            "gtin": "",
+            "description": "NONE",
+            "length": "38",
+            "depth": "51",
+            "height": "139",
+            "weight": "124",
+            "name": "Finish Protector Dual Protection 1St"
+        },
+        {
+            "id": "000000000100002336",
+            "gtin": "4015000962940",
+            "description": "NONE",
+            "length": "63",
+            "depth": "191",
+            "height": "150",
+            "weight": "543",
+            "name": "Somat 10 Tabs 25 St."
+        },
+        {
+            "id": "000000000100002337",
+            "gtin": "4015000962964",
+            "description": "NONE",
+            "length": "21",
+            "depth": "82",
+            "height": "138",
+            "weight": "27",
+            "name": "Somat 1 Tabs 40St"
+        },
+        {
+            "id": "000000000100002338",
+            "gtin": "",
+            "description": "NONE",
+            "length": "64",
+            "depth": "128",
+            "height": "131",
+            "weight": "1209",
+            "name": "Somat Pulver 1,2kg"
+        },
+        {
+            "id": "000000000100002339",
+            "gtin": "",
+            "description": "NONE",
+            "length": "45",
+            "depth": "205",
+            "height": "95",
+            "weight": "51",
+            "name": "Denkmit Spezialsalz 2kg"
+        },
+        {
+            "id": "000000000100002340",
+            "gtin": "4010355295224",
+            "description": "NONE",
+            "length": "22",
+            "depth": "72",
+            "height": "72",
+            "weight": "82",
+            "name": "#N/A"
+        },
+        {
+            "id": "000000000100002341",
+            "gtin": "4010355295248",
+            "description": "NONE",
+            "length": "22",
+            "depth": "72",
+            "height": "72",
+            "weight": "82",
+            "name": "#N/A"
+        },
+        {
+            "id": "000000000100002342",
+            "gtin": "",
+            "description": "NONE",
+            "length": "22",
+            "depth": "72",
+            "height": "72",
+            "weight": "82",
+            "name": "Denkmit Geschirr- Reiniger-Tabs 65St"
+        },
+        {
+            "id": "000000000100002343",
+            "gtin": "4010355215321",
+            "description": "NONE",
+            "length": "45",
+            "depth": "205",
+            "height": "95",
+            "weight": "51",
+            "name": "#N/A"
+        },
+        {
+            "id": "000000000100002344",
+            "gtin": "4015000961479",
+            "description": "NONE",
+            "length": "21",
+            "depth": "82",
+            "height": "138",
+            "weight": "27",
+            "name": "#N/A"
+        },
+        {
+            "id": "000000000100002345",
+            "gtin": "4010355100054",
+            "description": "NONE",
+            "length": "45",
+            "depth": "205",
+            "height": "95",
+            "weight": "51",
+            "name": "#N/A"
+        },
+        {
+            "id": "000000000100002346",
+            "gtin": "",
+            "description": "NONE",
+            "length": "44",
+            "depth": "62",
+            "height": "140",
+            "weight": "298",
+            "name": "Finish Maschinen- Pfleger 250ml"
+        },
+        {
+            "id": "000000000100002347",
+            "gtin": "",
+            "description": "NONE",
+            "length": "38",
+            "depth": "51",
+            "height": "139",
+            "weight": "124",
+            "name": "Finish Spezialsalz 1,2kg"
+        },
+        {
+            "id": "000000000100002348",
+            "gtin": "",
+            "description": "NONE",
+            "length": "54",
+            "depth": "93",
+            "height": "288",
+            "weight": "824",
+            "name": "Finish Klarspüler 750ml"
+        },
+        {
+            "id": "000000000100002349",
+            "gtin": "4010355326508",
+            "description": "NONE",
+            "length": "22",
+            "depth": "72",
+            "height": "72",
+            "weight": "82",
+            "name": "Denkmit Geschirr ReinigerPulver 1,8kg"
+        },
+        {
+            "id": "000000000100002350",
+            "gtin": "4010355319968",
+            "description": "NONE",
+            "length": "22",
+            "depth": "72",
+            "height": "72",
+            "weight": "82",
+            "name": "#N/A"
+        },
+        {
+            "id": "000000000100002351",
+            "gtin": "4000125077310",
+            "description": "NONE",
+            "length": "90",
+            "depth": "90",
+            "height": "308",
+            "weight": "1390",
+            "name": "Domestos Kraft- Univers.Reinig.1,25L"
+        },
+        {
+            "id": "000000000100002352",
+            "gtin": "4002448107736",
+            "description": "NONE",
+            "length": "38",
+            "depth": "51",
+            "height": "139",
+            "weight": "124",
+            "name": "Sagrotan Allzweck- Reiniger Ozean 1,5l"
+        },
+        {
+            "id": "000000000100002353",
+            "gtin": "4010355250308",
+            "description": "NONE",
+            "length": "22",
+            "depth": "72",
+            "height": "72",
+            "weight": "82",
+            "name": "#N/A"
+        },
+        {
+            "id": "000000000100002354",
+            "gtin": "4010355101167",
+            "description": "NONE",
+            "length": "45",
+            "depth": "205",
+            "height": "95",
+            "weight": "51",
+            "name": "#N/A"
+        },
+        {
+            "id": "000000000100002355",
+            "gtin": "8001090168795",
+            "description": "NONE",
+            "length": "65",
+            "depth": "137",
+            "height": "166",
+            "weight": "392",
+            "name": "#N/A"
+        },
+        {
+            "id": "000000000100002356",
+            "gtin": "4010355101143",
+            "description": "NONE",
+            "length": "45",
+            "depth": "205",
+            "height": "95",
+            "weight": "51",
+            "name": "#N/A"
+        },
+        {
+            "id": "000000000100002357",
+            "gtin": "8714789952581",
+            "description": "NONE",
+            "length": "63",
+            "depth": "90",
+            "height": "265",
+            "weight": "1035",
+            "name": "Ajax Allzweckrein. Frühling Ultra 7 1L"
+        },
+        {
+            "id": "000000000100002358",
+            "gtin": "4015000960847",
+            "description": "NONE",
+            "length": "21",
+            "depth": "82",
+            "height": "138",
+            "weight": "27",
+            "name": "Der General Bergfrühling 750ml"
+        }
+    ]
+}
