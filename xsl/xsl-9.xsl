@@ -17,12 +17,12 @@
     	</xsl:variable>
 			"id":<xsl:value-of select="$quote"/><xsl:value-of select="MATNR"/><xsl:value-of select="$quote"/>,
 			"gtin":<xsl:value-of select="$quote"/><xsl:value-of select="$gtinEAN"/><xsl:value-of select="$quote"/>,
-			"description":"NONE",
+			
 				<xsl:for-each select="E1WBB03">  
 					"length":<xsl:value-of select="$quote"/><xsl:value-of select="floor(LAENG)"> </xsl:value-of><xsl:value-of select="$quote"/>,
 					"depth":<xsl:value-of select="$quote"/><xsl:value-of select="floor(BREIT)">  </xsl:value-of><xsl:value-of select="$quote"/>,
 					"height":<xsl:value-of select="$quote"/><xsl:value-of select="floor(HOEHE)"> </xsl:value-of><xsl:value-of select="$quote"/>,
-					"weight":<xsl:value-of select="$quote"/><xsl:value-of select="floor(BRGEW)"> </xsl:value-of><xsl:value-of select="$quote"/>	
+					"weight":<xsl:value-of select="$quote"/><xsl:value-of select="floor(BRGEW)"> </xsl:value-of><xsl:value-of select="$quote"/>,	
 				<xsl:for-each select="E1WBB04"> 
 			</xsl:for-each>
 			
@@ -39,13 +39,17 @@
 		</xsl:for-each>
 		
 		<xsl:for-each select="E1WBB10">
-		,"name":<xsl:value-of select="$quote"/><xsl:value-of select="MAKTM"/><xsl:value-of select="$quote"/>
+		"name":<xsl:value-of select="$quote"/><xsl:value-of select="MAKTM"/><xsl:value-of select="$quote"/>,
 		</xsl:for-each>
 		
 		<xsl:for-each select="E1WBB12">
 		</xsl:for-each>
 		
 		<xsl:for-each select="E1WBB16"> 
+		</xsl:for-each>
+
+		<xsl:for-each select="E1WBB18"> 
+			"description":<xsl:value-of select="$quote"/><xsl:value-of select="SORF1">  </xsl:value-of><xsl:value-of select="$quote"/>
 		</xsl:for-each>
 		
 		<xsl:for-each select="E1WBB22"> 
