@@ -3,6 +3,7 @@
 <xsl:param name="hundred" select="100"/>
 <xsl:output method="html" indent="yes"/>
 <xsl:template match="/WBBDLD07/IDOC">
+<xsl:param name="factors">1234567890</xsl:param> 
 <xsl:variable name="alpha" select="'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'"/>
 <xsl:variable name="quote">"</xsl:variable>
 {
@@ -15,14 +16,14 @@
     	<xsl:variable name="gtinEAN" >
      	 <xsl:apply-templates select="E1WBB03/E1WBB04/EAN11"/>
     	</xsl:variable>
-			"id":<xsl:value-of select="$quote"/><xsl:value-of select="MATNR"/><xsl:value-of select="$quote"/>,
-			"gtin":<xsl:value-of select="$quote"/><xsl:value-of select="$gtinEAN"/><xsl:value-of select="$quote"/>,
+			"id":"<xsl:value-of select="MATNR"/>",
+			"gtin":"<xsl:value-of select="$gtinEAN"/>",
 			
 				<xsl:for-each select="E1WBB03">  
-					"length":<xsl:value-of select="$quote"/><xsl:value-of select="floor(LAENG)"> </xsl:value-of><xsl:value-of select="$quote"/>,
-					"depth":<xsl:value-of select="$quote"/><xsl:value-of select="floor(BREIT)">  </xsl:value-of><xsl:value-of select="$quote"/>,
-					"height":<xsl:value-of select="$quote"/><xsl:value-of select="floor(HOEHE)"> </xsl:value-of><xsl:value-of select="$quote"/>,
-					"weight":<xsl:value-of select="$quote"/><xsl:value-of select="floor(BRGEW)"> </xsl:value-of><xsl:value-of select="$quote"/>,	
+					"length":"<xsl:value-of select="floor(LAENG)"> </xsl:value-of>",
+					"depth":"<xsl:value-of select="floor(BREIT)">  </xsl:value-of>",
+					"height":"<xsl:value-of select="floor(HOEHE)"> </xsl:value-of>",
+					"weight":"<xsl:value-of select="floor(BRGEW)"> </xsl:value-of>",	
 				<xsl:for-each select="E1WBB04"> 
 			</xsl:for-each>
 			
@@ -39,7 +40,7 @@
 		</xsl:for-each>
 		
 		<xsl:for-each select="E1WBB10">
-		"name":<xsl:value-of select="$quote"/><xsl:value-of select="MAKTM"/><xsl:value-of select="$quote"/>,
+		"name":"<xsl:value-of select="MAKTM"/>",
 		</xsl:for-each>
 		
 		<xsl:for-each select="E1WBB12">
@@ -49,11 +50,47 @@
 		</xsl:for-each>
 
 		<xsl:for-each select="E1WBB18"> 
-			"description":<xsl:value-of select="$quote"/><xsl:value-of select="SORF1">  </xsl:value-of><xsl:value-of select="$quote"/>
+
+			<xsl:variable name="SORF" >
+				<xsl:value-of select="substring(SORF1, string-length(SORF1) - 5)"/>
+			</xsl:variable> 
+
+
+			<xsl:variable name="TEMP1" >
+				<xsl:value-of select="substring($SORF, string-length($SORF) - 3)"/>
+			</xsl:variable> 
+
+			<xsl:variable name="TEMP2" >
+				<xsl:value-of select="substring($SORF, 1,3)"/>
+			</xsl:variable> 
+
+			<xsl:variable name="SHELF" >
+				<xsl:value-of select="substring($TEMP2,1, 2)"/>
+			</xsl:variable> 
+
+			<xsl:variable name="LAYER" >
+				<xsl:value-of select="substring($TEMP1,1, 1)"/>
+			</xsl:variable> 
+
+			<xsl:variable name="ORDER" >
+				<xsl:value-of select="substring($TEMP1, string-length($TEMP1) - 2)"/>
+			</xsl:variable> 
+
+
+
+		  "description":
+		   {
+		      "shelf":"<xsl:value-of    select="$SHELF"/>",
+		      "shelflayer":"<xsl:value-of    select="$LAYER"/>",
+		      "order":"<xsl:value-of    select="$ORDER"/>",
+		      "NoOffacings":"<xsl:value-of  select="FACIN"/>"
+		   }
+
+
 		</xsl:for-each>
 		
 		<xsl:for-each select="E1WBB22"> 
-		</xsl:for-each>
+		</xsl:for-each> 
 		
 		<xsl:for-each select="E1WBBAH">
 		</xsl:for-each>
