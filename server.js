@@ -85,7 +85,7 @@ app.post('/xmlIDOC1', (req, res) => {
 
       for (var i = 0; i < productList.length; i++) {
         var product = productList[i];
-        console.log(product.gtin);
+        console.log(product.gtin + "___" + product.name + "___" + product.description);
       }
 
       let dataString = fs.readFileSync(jsondoc);
