@@ -43,6 +43,27 @@ app.get('/getLastXMLEntry', (req, res) => {
 })
 
 
+app.get('/getLastEvent', (req, res) => 
+{
+  fext = 0;
+  jsondoc = "idocdata" + fext + ".json";
+  while (fs.existsSync('./' + jsondoc)) 
+  {
+    fext = fext + 1;
+    jsondoc = "idocdata" + fext + ".json";
+  }
+  ext = fext - 1;
+  var jsondoc = "idocdata" + ext + ".json"
+  
+  if (fext == 0) 
+  {
+    res.send("No has been uploaded yet");
+  }
+  var data = fs.readFileSync('./' + jsondoc, 'utf8');
+  res.send(data);
+})
+
+
 
 app.post('/xmlIDOC1', (req, res) => {
 

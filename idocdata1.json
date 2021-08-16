@@ -1,0 +1,3681 @@
+{
+    "products": [
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002324",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002324",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "45.000",
+                    "BREIT": "205.000",
+                    "HOEHE": "95.000",
+                    "VOLUM": "0.876",
+                    "VOLEH": "LTR",
+                    "BRGEW": "51.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4010355055774",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "1.89",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Denkmit Backofen Grillreiniger 500ml"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19105",
+                    "RIGHT3": "105",
+                    "LEFT3": "191",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "1",
+                    "positionX": "05",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019105",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002325",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002325",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "45.000",
+                    "BREIT": "205.000",
+                    "HOEHE": "95.000",
+                    "VOLUM": "0.876",
+                    "VOLEH": "LTR",
+                    "BRGEW": "51.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4010355101082",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "1.09",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "#N/A"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19108",
+                    "RIGHT3": "108",
+                    "LEFT3": "191",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "1",
+                    "positionX": "08",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019108",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 8.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002329",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002329",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "40.000",
+                    "BREIT": "190.000",
+                    "HOEHE": "190.000",
+                    "VOLUM": "1.444",
+                    "VOLEH": "LTR",
+                    "BRGEW": "390.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4002448085492",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "5.29",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Finish Quantum Lemon 22St"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19202",
+                    "RIGHT3": "202",
+                    "LEFT3": "192",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "2",
+                    "positionX": "02",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019202",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002330",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002330",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "32.000",
+                    "BREIT": "80.000",
+                    "HOEHE": "130.000",
+                    "VOLUM": "0.333",
+                    "VOLEH": "LTR",
+                    "BRGEW": "53.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "40161938",
+                        "EANTP": "HK",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "1.59",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Putzboy Glaskeramik-Schaber OR + 2NF 1St"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19203",
+                    "RIGHT3": "203",
+                    "LEFT3": "192",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "2",
+                    "positionX": "03",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019203",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002331",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002331",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "45.000",
+                    "BREIT": "205.000",
+                    "HOEHE": "95.000",
+                    "VOLUM": "0.876",
+                    "VOLEH": "LTR",
+                    "BRGEW": "51.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4010355100078",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "1.09",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "#N/A"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19204",
+                    "RIGHT3": "204",
+                    "LEFT3": "192",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "2",
+                    "positionX": "04",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019204",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002332",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002332",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "38.000",
+                    "BREIT": "51.000",
+                    "HOEHE": "139.000",
+                    "VOLUM": "269.382",
+                    "VOLEH": "MTQ",
+                    "BRGEW": "124.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4002448102854",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "5.29",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Finish Classic Smartpack 40St"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19206",
+                    "RIGHT3": "206",
+                    "LEFT3": "192",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "2",
+                    "positionX": "06",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019206",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002333",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002333",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "38.000",
+                    "BREIT": "51.000",
+                    "HOEHE": "139.000",
+                    "VOLUM": "269.382",
+                    "VOLEH": "MTQ",
+                    "BRGEW": "124.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4002448103455",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "11.49",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "#N/A"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19207",
+                    "RIGHT3": "207",
+                    "LEFT3": "192",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "2",
+                    "positionX": "07",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019207",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002334",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002334",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "67.000",
+                    "BREIT": "138.000",
+                    "HOEHE": "162.000",
+                    "VOLUM": "1.498",
+                    "VOLEH": "LTR",
+                    "BRGEW": "1511.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4002448083375",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "5.29",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Finish Power Powder 1,5kg"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19301",
+                    "RIGHT3": "301",
+                    "LEFT3": "193",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "3",
+                    "positionX": "01",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019301",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002335",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002335",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "38.000",
+                    "BREIT": "51.000",
+                    "HOEHE": "139.000",
+                    "VOLUM": "269.382",
+                    "VOLEH": "MTQ",
+                    "BRGEW": "124.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "4.69",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201123",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Finish Protector Dual Protection 1St"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19302",
+                    "RIGHT3": "302",
+                    "LEFT3": "193",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "3",
+                    "positionX": "02",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019302",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002336",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002336",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "63.000",
+                    "BREIT": "191.000",
+                    "HOEHE": "150.000",
+                    "VOLUM": "1.805",
+                    "VOLEH": "LTR",
+                    "BRGEW": "543.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4015000962940",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "5.39",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Somat 10 Tabs 25 St."
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19303",
+                    "RIGHT3": "303",
+                    "LEFT3": "193",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "3",
+                    "positionX": "03",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019303",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002337",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002337",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "21.000",
+                    "BREIT": "82.000",
+                    "HOEHE": "138.000",
+                    "VOLUM": "237.636",
+                    "VOLEH": "MTQ",
+                    "BRGEW": "27.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4015000962964",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "5.39",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Somat 1 Tabs 40St"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19304",
+                    "RIGHT3": "304",
+                    "LEFT3": "193",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "3",
+                    "positionX": "04",
+                    "numberOfFacings": "2",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019304",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "2.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 24.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002338",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002338",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "64.000",
+                    "BREIT": "128.000",
+                    "HOEHE": "131.000",
+                    "VOLUM": "1.073",
+                    "VOLEH": "LTR",
+                    "BRGEW": "1209.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "5.39",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201123",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Somat Pulver 1,2kg"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19305",
+                    "RIGHT3": "305",
+                    "LEFT3": "193",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "3",
+                    "positionX": "05",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019305",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002339",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002339",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "45.000",
+                    "BREIT": "205.000",
+                    "HOEHE": "95.000",
+                    "VOLUM": "0.876",
+                    "VOLEH": "LTR",
+                    "BRGEW": "51.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "0.89",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201123",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Denkmit Spezialsalz 2kg"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19401",
+                    "RIGHT3": "401",
+                    "LEFT3": "194",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "4",
+                    "positionX": "01",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019401",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 8.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002340",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002340",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "22.000",
+                    "BREIT": "72.000",
+                    "HOEHE": "72.000",
+                    "VOLUM": "0.114",
+                    "VOLEH": "LTR",
+                    "BRGEW": "82.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4010355295224",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "3.29",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "#N/A"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19402",
+                    "RIGHT3": "402",
+                    "LEFT3": "194",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "4",
+                    "positionX": "02",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019402",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002341",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002341",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "22.000",
+                    "BREIT": "72.000",
+                    "HOEHE": "72.000",
+                    "VOLUM": "0.114",
+                    "VOLEH": "LTR",
+                    "BRGEW": "82.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4010355295248",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "3.99",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "#N/A"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19403",
+                    "RIGHT3": "403",
+                    "LEFT3": "194",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "4",
+                    "positionX": "03",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019403",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002342",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002342",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "22.000",
+                    "BREIT": "72.000",
+                    "HOEHE": "72.000",
+                    "VOLUM": "0.114",
+                    "VOLEH": "LTR",
+                    "BRGEW": "82.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "3.49",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201123",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Denkmit Geschirr- Reiniger-Tabs 65St"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19404",
+                    "RIGHT3": "404",
+                    "LEFT3": "194",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "4",
+                    "positionX": "04",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019404",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002343",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002343",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "45.000",
+                    "BREIT": "205.000",
+                    "HOEHE": "95.000",
+                    "VOLUM": "0.876",
+                    "VOLEH": "LTR",
+                    "BRGEW": "51.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4010355215321",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "3.39",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "#N/A"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19406",
+                    "RIGHT3": "406",
+                    "LEFT3": "194",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "4",
+                    "positionX": "06",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019406",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002344",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002344",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "21.000",
+                    "BREIT": "82.000",
+                    "HOEHE": "138.000",
+                    "VOLUM": "237.636",
+                    "VOLEH": "MTQ",
+                    "BRGEW": "27.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4015000961479",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "3.49",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "#N/A"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19501",
+                    "RIGHT3": "501",
+                    "LEFT3": "195",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "5",
+                    "positionX": "01",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019501",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002345",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002345",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "45.000",
+                    "BREIT": "205.000",
+                    "HOEHE": "95.000",
+                    "VOLUM": "0.876",
+                    "VOLEH": "LTR",
+                    "BRGEW": "51.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4010355100054",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "1.09",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "#N/A"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19502",
+                    "RIGHT3": "502",
+                    "LEFT3": "195",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "5",
+                    "positionX": "02",
+                    "numberOfFacings": "2",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019502",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "2.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 24.000",
+                        "PRABE": " 8.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002346",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002346",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "44.000",
+                    "BREIT": "62.000",
+                    "HOEHE": "140.000",
+                    "VOLUM": "0.382",
+                    "VOLEH": "LTR",
+                    "BRGEW": "298.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "2.69",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201123",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Finish Maschinen- Pfleger 250ml"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19503",
+                    "RIGHT3": "503",
+                    "LEFT3": "195",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "5",
+                    "positionX": "03",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019503",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002347",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002347",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "38.000",
+                    "BREIT": "51.000",
+                    "HOEHE": "139.000",
+                    "VOLUM": "269.382",
+                    "VOLEH": "MTQ",
+                    "BRGEW": "124.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "0.99",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201123",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Finish Spezialsalz 1,2kg"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19504",
+                    "RIGHT3": "504",
+                    "LEFT3": "195",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "5",
+                    "positionX": "04",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019504",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002348",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002348",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "54.000",
+                    "BREIT": "93.000",
+                    "HOEHE": "288.000",
+                    "VOLUM": "1.446",
+                    "VOLEH": "LTR",
+                    "BRGEW": "824.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "2.19",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201123",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Finish Klarspüler 750ml"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19505",
+                    "RIGHT3": "505",
+                    "LEFT3": "195",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "5",
+                    "positionX": "05",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019505",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002349",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002349",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "22.000",
+                    "BREIT": "72.000",
+                    "HOEHE": "72.000",
+                    "VOLUM": "0.114",
+                    "VOLEH": "LTR",
+                    "BRGEW": "82.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4010355326508",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "3.39",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Denkmit Geschirr ReinigerPulver 1,8kg"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19506",
+                    "RIGHT3": "506",
+                    "LEFT3": "195",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "5",
+                    "positionX": "06",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019506",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002350",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002350",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "22.000",
+                    "BREIT": "72.000",
+                    "HOEHE": "72.000",
+                    "VOLUM": "0.114",
+                    "VOLEH": "LTR",
+                    "BRGEW": "82.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4010355319968",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "0.99",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "#N/A"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19507",
+                    "RIGHT3": "507",
+                    "LEFT3": "195",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "5",
+                    "positionX": "07",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019507",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 4.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002351",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002351",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "90.000",
+                    "BREIT": "90.000",
+                    "HOEHE": "308.000",
+                    "VOLUM": "2.495",
+                    "VOLEH": "LTR",
+                    "BRGEW": "1390.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4000125077310",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "2.09",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Domestos Kraft- Univers.Reinig.1,25L"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19601",
+                    "RIGHT3": "601",
+                    "LEFT3": "196",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "6",
+                    "positionX": "01",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019601",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002352",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002352",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "38.000",
+                    "BREIT": "51.000",
+                    "HOEHE": "139.000",
+                    "VOLUM": "269.382",
+                    "VOLEH": "MTQ",
+                    "BRGEW": "124.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4002448107736",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "3.29",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Sagrotan Allzweck- Reiniger Ozean 1,5l"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19602",
+                    "RIGHT3": "602",
+                    "LEFT3": "196",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "6",
+                    "positionX": "02",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019602",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002353",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002353",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "22.000",
+                    "BREIT": "72.000",
+                    "HOEHE": "72.000",
+                    "VOLUM": "0.114",
+                    "VOLEH": "LTR",
+                    "BRGEW": "82.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4010355250308",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "2.09",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "#N/A"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19603",
+                    "RIGHT3": "603",
+                    "LEFT3": "196",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "6",
+                    "positionX": "03",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019603",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002354",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002354",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "45.000",
+                    "BREIT": "205.000",
+                    "HOEHE": "95.000",
+                    "VOLUM": "0.876",
+                    "VOLEH": "LTR",
+                    "BRGEW": "51.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4010355101167",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "0.89",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "#N/A"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19604",
+                    "RIGHT3": "604",
+                    "LEFT3": "196",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "6",
+                    "positionX": "04",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019604",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002355",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002355",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "65.000",
+                    "BREIT": "137.000",
+                    "HOEHE": "166.000",
+                    "VOLUM": "1.478",
+                    "VOLEH": "LTR",
+                    "BRGEW": "392.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "8001090168795",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "1.69",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "#N/A"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19605",
+                    "RIGHT3": "605",
+                    "LEFT3": "196",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "6",
+                    "positionX": "05",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019605",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002356",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002356",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "45.000",
+                    "BREIT": "205.000",
+                    "HOEHE": "95.000",
+                    "VOLUM": "0.876",
+                    "VOLEH": "LTR",
+                    "BRGEW": "51.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4010355101143",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "0.89",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "#N/A"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19606",
+                    "RIGHT3": "606",
+                    "LEFT3": "196",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "6",
+                    "positionX": "06",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019606",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002357",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002357",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "63.000",
+                    "BREIT": "90.000",
+                    "HOEHE": "265.000",
+                    "VOLUM": "1.503",
+                    "VOLEH": "LTR",
+                    "BRGEW": "1035.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "8714789952581",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "1.49",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Ajax Allzweckrein. Frühling Ultra 7 1L"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19607",
+                    "RIGHT3": "607",
+                    "LEFT3": "196",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "6",
+                    "positionX": "07",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019607",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        },
+        {
+            "E1WBB01": {
+                "LOCNR": "YLB1",
+                "GTIN": "000000000100002358",
+                "GLTAB": "20210301",
+                "AENKZ": "DIRC",
+                "SPRAS": "D",
+                "WAERS": "EUR",
+                "LANG_ISO": "DE",
+                "BSORT": "6",
+                "SEG_REPEAT": "X",
+                "MATNR_LONG": "000000000100002358",
+                "E1WBB03": {
+                    "MEINH": "PCE",
+                    "UMREZ": "1",
+                    "UMREN": "1",
+                    "LAENG": "21.000",
+                    "BREIT": "82.000",
+                    "HOEHE": "138.000",
+                    "VOLUM": "237.636",
+                    "VOLEH": "MTQ",
+                    "BRGEW": "27.000",
+                    "GEWEI": "KGM",
+                    "KZBSTME": "X",
+                    "KZAUSME": "X",
+                    "MEABM": "MMT",
+                    "E1WBB04": {
+                        "EAN11": "4015000960847",
+                        "EANTP": "HE",
+                        "HPEAN": "X"
+                    },
+                    "E1WBB07": {
+                        "KSCHL": "VKP0",
+                        "DATAB": "20210301",
+                        "STIME": "0000",
+                        "DATBI": "99991231",
+                        "ETIME": "0000",
+                        "E1WBB08": {
+                            "VORZN": "+",
+                            "KWERT": "1.89",
+                            "KPEIN": "1",
+                            "CURCY": "EUR"
+                        }
+                    }
+                },
+                "E1WBB02": {
+                    "LAEDA": "20201118",
+                    "LIQDT": "99991231",
+                    "BBTYP": "Y",
+                    "VERNR": "000048",
+                    "MTART": "YHAW",
+                    "MATKL": "204",
+                    "ATTYP": "00",
+                    "BASME": "PCE",
+                    "MHDHB": "0",
+                    "MHDRZ": "0",
+                    "MHDLP": "0",
+                    "NTGEW": "0.000"
+                },
+                "E1WBB09": {
+                    "VKDAB": "20201028",
+                    "VKDBI": "99991231",
+                    "MSTDE": "00000000",
+                    "MSTDV": "00000000",
+                    "PRDRU": "X",
+                    "ARANZ": "X"
+                },
+                "E1WBB10": {
+                    "MTXID": "KTXT",
+                    "MAKTM": "Der General Bergfrühling 750ml"
+                },
+                "E1WBB12": {
+                    "EKGRP": "Y21",
+                    "LGRAD": "0.0",
+                    "EISBE": "0.000",
+                    "MINBE": "0.000",
+                    "MABST": "0.000",
+                    "AUSDT": "00000000",
+                    "SSTUF": "",
+                    "PFLKS": "",
+                    "LSTAB": "20200324",
+                    "LSTBI": "99991231",
+                    "LI_PROC_ST": "",
+                    "DISMM": "ND",
+                    "SKTOF": "X",
+                    "DISPO": "",
+                    "ASORT": "YLB004"
+                },
+                "E1WBB16": {
+                    "MWSKZ": "A1"
+                },
+                "E1WBB18": {
+                    "SORF": "19608",
+                    "RIGHT3": "608",
+                    "LEFT3": "196",
+                    "orientationYaw": "19",
+                    "SHELF": "19",
+                    "shelfLayerId": "6",
+                    "positionX": "08",
+                    "numberOfFacings": "1",
+                    "LAYGR": "YLB004",
+                    "SORF1": "0000019608",
+                    "LAYVR": "YLB1LAYOUT",
+                    "MELAY": "PCE",
+                    "FACIN": "1.000",
+                    "LMVER": "0000",
+                    "E1WBB18_EXT": {
+                        "FRONT": " 6.000",
+                        "VERAB": "20200324",
+                        "VERBI": "99991231",
+                        "MAXB": " 12.000",
+                        "PRABE": " 2.000"
+                    }
+                }
+            }
+        }
+    ]
+}
