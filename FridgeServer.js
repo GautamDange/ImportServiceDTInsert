@@ -5,7 +5,6 @@ var app = express();
 
 const port = 3678;
 const host = '0.0.0.0';
-app.use(fileupload());
 
 
 app.get('/getLastEvent', (req, res) => 
